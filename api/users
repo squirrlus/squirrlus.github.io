@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ArrayOfuser xmlns="http://schemas.datacontract.org/2004/07/CCWebApi.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<user>
+<city>cape</city>
+<email>test@test.com</email>
+<firstname>Jesse</firstname>
+<id>3</id>
+<isAdmin>false</isAdmin>
+<lastname>Hankins</lastname>
+<password>p</password>
+<payment_status>paid</payment_status>
+<state>mo</state>
+<street_address>add</street_address>
+<subscription>M</subscription>
+<username>u</username>
+<zip>77777</zip>
+</user>
+<user>
+<city>Cape</city>
+<email>al@semo.edu</email>
+<firstname>Andrew</firstname>
+<id>4</id>
+<isAdmin>true</isAdmin>
+<lastname>Leonard</lastname>
+<password>pass</password>
+<payment_status>paid</payment_status>
+<state>MO</state>
+<street_address>address</street_address>
+<subscription>M</subscription>
+<username>andrew</username>
+<zip>99999</zip>
+</user>
+<user>
+<city>Jackson</city>
+<email>mrschaefer1s@semo.edu</email>
+<firstname>Matt</firstname>
+<id>10</id>
+<isAdmin>true</isAdmin>
+<lastname>Schaefer</lastname>
+<password>password</password>
+<payment_status i:nil="true"/>
+<state>MO</state>
+<street_address>123</street_address>
+<subscription i:nil="true"/>
+<username>username</username>
+<zip>63755</zip>
+</user>
+<user>
+<city>f</city>
+<email>f</email>
+<firstname>f</firstname>
+<id>13</id>
+<isAdmin>false</isAdmin>
+<lastname>f</lastname>
+<password>f</password>
+<payment_status i:nil="true"/>
+<state>f</state>
+<street_address>f</street_address>
+<subscription i:nil="true"/>
+<username>f</username>
+<zip>3</zip>
+</user>
+<user>
+<city>jjjjjj</city>
+<email>jjjjjj</email>
+<firstname>jjjjjj</firstname>
+<id>14</id>
+<isAdmin>false</isAdmin>
+<lastname>jjjjjj</lastname>
+<password>jjjjjj</password>
+<payment_status i:nil="true"/>
+<state>jjjjjj</state>
+<street_address>jjjjjj</street_address>
+<subscription i:nil="true"/>
+<username>jjjjjj</username>
+<zip>jjjjjj</zip>
+</user>
+</ArrayOfuser>
